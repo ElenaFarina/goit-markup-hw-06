@@ -2293,15 +2293,15 @@
       <tab-container class="d-flex flex-column js-branches-tags-tabs" style="min-height: 0;">
         <div class="SelectMenu-filter">
           <input data-target="input-demux.source"
-                 id="context-commitish-filter-field"
-                 class="SelectMenu-input form-control"
-                 aria-owns="ref-list-branches"
-                 data-controls-ref-menu-id="ref-list-branches"
-                 autofocus
-                 autocomplete="off"
-                 aria-label="Filter branches/tags"
-                 placeholder="Filter branches/tags"
-                 type="text"
+                  id="context-commitish-filter-field"
+                  class="SelectMenu-input form-control"
+                  aria-owns="ref-list-branches"
+                  data-controls-ref-menu-id="ref-list-branches"
+                  autofocus
+                  autocomplete="off"
+                  aria-label="Filter branches/tags"
+                  placeholder="Filter branches/tags"
+                  type="text"
           >
         </div>
 
@@ -2718,8 +2718,8 @@
         <ul class="dropdown-menu dropdown-menu-sw" style="width: 175px">
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
-                   data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/minholinda/goit-markup-hw-06?branch=main&amp;filepath=images%2FVector%204.svg">
+                    data-platforms="windows,mac"
+                    href="x-github-client://openRepo/https://github.com/minholinda/goit-markup-hw-06?branch=main&amp;filepath=images%2FVector%204.svg">
                   Open with Desktop
                 </a>
             </li>
@@ -2802,7 +2802,7 @@
       </iframe>
     </div>
   </div>
- 
+
     </div>
 
     </div>
